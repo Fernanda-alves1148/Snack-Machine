@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\bin\Debug\Exerciciosnackmachine.exe.config
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\bin\Debug\Exerciciosnackmachine.exe
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\bin\Debug\Exerciciosnackmachine.pdb
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.Form1.resources
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.Form2.resources
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.MDIParent1.resources
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.exe
+C:\Users\Aluno\Desktop\Snack machine\Exerciciosnackmachine\obj\Debug\Exerciciosnackmachine.pdb
